@@ -12,3 +12,5 @@ orbis/logs_wm/orbis_288x512/gen_rollout/
 /work/dlclarge2/alidemaa-text-control-orbis/orbis/FVD
 
 *.mp4
+*.png
+*.ckpt
